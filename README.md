@@ -1,18 +1,26 @@
-### Hi there 👋, My name is Edwin Castillo
-#### I am a Trainee of IT 
-![I am a Trainee of IT ](https://www.programaenlinea.net/wp-content/uploads/2019/07/programacion-3.jpg)
+## Hi there 👋, My name is Edwin Castillo
+#### I have worked as a Backend Developer and Scripting Developer
 
-I started programming 3 years ago when I was studying high school, I am 18 years old. 
-I have collaborated on website projects, desktop applications. 
+My interest in programming began during my high school years, and currently, at the age of 19, I have had the opportunity to collaborate on various projects, ranging from website development to creating desktop applications and APIs.
 
 My website: https://edwincastillo.netlify.app/
 
 
-Skills: JS / HTML / CSS / JAVA / C / SQL
+<img align="right" height="320px" src="https://www.programaenlinea.net/wp-content/uploads/2019/07/programacion-3.jpg" />
 
+### 🛠 &nbsp;Tech Stack
 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=Elastic)&nbsp;
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/EdwinC27)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/edwin-alejandro-castillo-arroyo-276226243//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://edwincastillo.netlify.app/)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
+## Connect with me on LinkedIn
+<div style="text-align: center;">
+  <a href="https://www.linkedin.com/in/edwin-alejandro-castillo-arroyo-276226243"> 
+    <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /> 
+  </a>
+</div>
