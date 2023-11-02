@@ -6,7 +6,7 @@ My interest in programming began during my high school years, and currently, at 
 My website: https://edwincastillo.netlify.app/
 
 
-<img align="right" height="320px" src="https://www.programaenlinea.net/wp-content/uploads/2019/07/programacion-3.jpg" />
+<img align="right" height="270px" src="https://www.programaenlinea.net/wp-content/uploads/2019/07/programacion-3.jpg" />
 
 ### 🛠 &nbsp;Tech Stack
 
