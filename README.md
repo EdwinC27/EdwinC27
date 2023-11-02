@@ -18,7 +18,7 @@ My website: https://edwincastillo.netlify.app/
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=Elastic)&nbsp;
 
-## Connect with me on LinkedIn
+## Connect with me
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/edwin-alejandro-castillo-arroyo-276226243"> 
     <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /> 
